@@ -26,5 +26,5 @@ Once the Repo is initialized the user can add content to it the API
 will manage all the Versions the user can access the Version they want
 
 #### How to Run
-- Install all the packages in package.json *npm install* 
-- Run the Server by either *npm start* or *node app.js*
+- Install all the packages in package.json **npm install** 
+- Run the Server by either **npm start** or **node app.js**
